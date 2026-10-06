@@ -1,0 +1,52 @@
+{
+  "currentTitle": "1 Do you consent to participate and agree to the collection of your responses in accordance with GDPR? * Your data is anonymous and will be used for statistical purposes only. *Do you consent to parti",
+  "blockTitle": "Do you agree to be contacted by the survey partners for future research or opportunities?*",
+  "selectorResults": {
+    "fieldset": 6,
+    "[role=\"radiogroup\"]": 3,
+    "[data-qa*=\"blocktype\"]": 3
+  },
+  "activeBlockHTML": "<div class=\"sc-gEvEer sc-eqUAAy cIAQyX\"></div><fieldset id=\"564f342d-fb89-4072-8bba-2d501739e4ed\" data-qa-block=\"true\" data-qa-blockref=\"564f342d-fb89-4072-8bba-2d501739e4ed\" data-qa-focused=\"true\" aria-labelledby=\"564f342d-fb89-4072-8bba-2d501739e4ed-prefix 564f342d-fb89-4072-8bba-2d501739e4ed-title\" aria-describedby=\"564f342d-fb89-4072-8bba-2d501739e4ed-description\" tabindex=\"-1\" class=\"sc-gEvEer sc-eqUAAy dPJKXV\" style=\"opacity: 1; transform: translateY(0%) translateZ(0px);\"><div class=\"sc-gEvEer sc-eqUAAy bUGWxE\"></div><div class=\"sc-gEvEer sc-eqUAAy WdiwT\"></div><div class=\"sc-gEvEer sc-eqUAAy qYuej\" style=\"opacity: 1; filter: blur(0px); transform: translateY(0%) translateZ(0px);\"><div aria-hidden=\"true\" style=\"position: absolute; top: 0px; height: 32px; width: 100%; pointer-events: none;\"></div><div class=\"sc-gEvEer sc-eqUAAy FNHVH\" style=\"opacity: 1; filter: blur(0px); transform: translateY(0%) translateZ(0px);\"><div class=\"sc-gEvEer sc-eqUAAy kWbUGp\"><div class=\"sc-gEvEer sc-eqUAAy fUuPqH\"><div class=\"sc-gEvEer sc-eqUAAy ehRNjS\"><span id=\"564f342d-fb89-4072-8bba-2d501739e4ed-prefix\" aria-label=\"Question 2 of 22\" data-qa=\"question-header-counter\" class=\"sc-gEvEer bsOFGV\">2</span></div></div></div><legend id=\"564f342d-fb89-4072-8bba-2d501739e4ed-title\" data-qa=\"block-title deep-purple-block-title\" class=\"sc-gEvEer fSvFOx sc-dAlyuH hdaZRu sc-dhKdcB iWwmFe\"><strong>Do you agree to be contacted by the survey partners for future research or opportunities?</strong><span aria-label=\"This question is required.\" class=\"sc-gEvEer dEvsHy\">*</span></legend></div><div class=\"sc-gEvEer sc-eqUAAy eOfgWJ\" style=\"opacity: 1; filter: blur(0px); transform: translateY(0%) translateZ(0px);\"><div id=\"564f342d-fb89-4072-8bba-2d501739e4ed-description\" data-qa=\"block-description\" class=\"sc-gEvEer fumCFT sc-jlZhew AYULN sc-dhKdcB iWwmFe\"></div></div></div><div class=\"sc-gEvEer sc-eqUAAy sc-cwHptR hYImnO dtpzom\"><div class=\"sc-gEvEer sc-eqUAAy jiBGNV\" style=\"opacity: 1; filter: blur(0px); transform: translateY(0%) translateZ(0px);\"><div class=\"sc-gEvEer sc-eqUAAy dyQWwc\"><fieldset class=\"sc-gEvEer sc-eqUAAy bigLiA\"><legend class=\"sc-klVQfs hTXMlX\">*Do you agree to be contacted by the survey partners for future research or opportunities?*</legend><div role=\"radiogroup\" aria-required=\"false\" dir=\"ltr\" tabindex=\"0\" class=\"sc-gEvEer sc-eqUAAy jnborw\" style=\"outline: none;\"><button type=\"button\" role=\"radio\" aria-checked=\"false\" data-state=\"unchecked\" value=\"564f342d-fb89-4072-8bba-2d501739e4ed-yes\" id=\"radio-2465-363b-501-52b6\" aria-disabled=\"false\" tabindex=\"-1\" data-radix-collection-item=\"\" class=\"sc-cfxfcM hZpsCn sc-dhKdcB iWwmFe\"><div class=\"sc-gEvEer sc-eqUAAy PLwmB\"><div aria-hidden=\"true\" class=\"sc-gEvEer sc-eqUAAy gayGRN\"><span class=\"sc-gEvEer dCEpFR sc-cPiKLX ivRxjd choice-key-inner\"><div class=\"sc-gEvEer sc-eqUAAy eOfgWJ choice-key-hint choice-key-hint\">Key</div>Y</span></div></div><span class=\"sc-gEvEer hUVYXw sc-gFAWRd gACYfF\">Yes</span></button><button typ",
+  "allButtonsInBlock": [
+    {
+      "tag": "BUTTON",
+      "role": "radio",
+      "text": "Y Yes",
+      "data-qa": "",
+      "class": "sc-cfxfcM hZpsCn sc-dhKdcB iWwmFe"
+    },
+    {
+      "tag": "BUTTON",
+      "role": "radio",
+      "text": "N No",
+      "data-qa": "",
+      "class": "sc-cfxfcM hZpsCn sc-dhKdcB iWwmFe"
+    }
+  ],
+  "fieldsets": [
+    {
+      "index": 0,
+      "legend": "Do you agree to be contacted by the survey partners for future research or opportunities?*",
+      "buttons": [
+        "Y Yes",
+        "N No"
+      ]
+    },
+    {
+      "index": 1,
+      "legend": "*Do you agree to be contacted by the survey partners for future research or opportunities?*",
+      "buttons": [
+        "Y Yes",
+        "N No"
+      ]
+    },
+    {
+      "index": 2,
+      "legend": "",
+      "buttons": [
+        "Y Yes",
+        "N No"
+      ]
+    }
+  ]
+}

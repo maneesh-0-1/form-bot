@@ -1,0 +1,21 @@
+{
+  "name": "form-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node autonomous_runner.js",
+    "start:headed": "node autonomous_runner.js --headed",
+    "start:once": "node autonomous_runner.js --headed --count 1",
+    "codegen": "npx playwright codegen https://form.typeform.com/to/zx9C41uZ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.63.0",
+    "xlsx": "^0.18.5"
+  }
+}

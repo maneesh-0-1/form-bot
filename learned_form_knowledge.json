@@ -1,0 +1,750 @@
+[
+  {
+    "key": "Consent",
+    "match": {},
+    "type": "radio",
+    "target": "Yes, I consent",
+    "defaultOptions": [
+      "Yes, I consent",
+      "No, I do not consent"
+    ]
+  },
+  {
+    "key": "Contact",
+    "match": {},
+    "type": "radio",
+    "target": "Yes",
+    "defaultOptions": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "key": "Age",
+    "match": {},
+    "type": "radio",
+    "target": "22–25",
+    "defaultOptions": [
+      "Under 18",
+      "18–21",
+      "22–25",
+      "26–30",
+      "31+"
+    ]
+  },
+  {
+    "key": "Gender",
+    "match": {},
+    "type": "radio",
+    "target": "Man",
+    "defaultOptions": [
+      "Woman",
+      "Man",
+      "Non-binary / gender diverse",
+      "Prefer not to say"
+    ]
+  },
+  {
+    "key": "Origin Country",
+    "match": {},
+    "type": "dropdown",
+    "target": "Nepal",
+    "defaultOptions": [
+      "Nepal",
+      "India",
+      "United States",
+      "United Kingdom",
+      "Canada",
+      "Australia",
+      "Germany",
+      "France",
+      "Japan",
+      "Brazil",
+      "Other"
+    ]
+  },
+  {
+    "key": "Current Country",
+    "match": {},
+    "type": "dropdown",
+    "target": "Nepal",
+    "defaultOptions": [
+      "Nepal",
+      "India",
+      "United States",
+      "United Kingdom",
+      "Canada",
+      "Australia",
+      "Germany",
+      "France",
+      "Japan",
+      "Brazil",
+      "Other"
+    ]
+  },
+  {
+    "key": "Employment",
+    "match": {},
+    "type": "radio",
+    "target": "Full-time student",
+    "defaultOptions": [
+      "Full-time student",
+      "Employed full-time",
+      "Employed part-time",
+      "Self-employed / Freelance",
+      "Unemployed / Looking for work",
+      "Other"
+    ]
+  },
+  {
+    "key": "Education",
+    "match": {},
+    "type": "radio",
+    "target": "Bachelor's",
+    "defaultOptions": [
+      "High School or equivalent",
+      "Vocational / Technical training",
+      "Bachelor's degree (in progress or completed)",
+      "Master's degree or higher",
+      "Self-taught / Non-formal"
+    ]
+  },
+  {
+    "key": "Field of Study",
+    "match": {},
+    "type": "radio",
+    "target": "STEM",
+    "defaultOptions": [
+      "STEM (Science, Technology, Engineering, Math)",
+      "Business, Finance, or Economics",
+      "Social Sciences, Law, or Humanities",
+      "Arts, Design, or Media",
+      "Healthcare or Life Sciences",
+      "Other"
+    ]
+  },
+  {
+    "key": "Youth Organization",
+    "match": {},
+    "type": "radio",
+    "target": "Yes, actively",
+    "defaultOptions": [
+      "Yes, actively",
+      "Yes, occasionally",
+      "No, but interested",
+      "No, not interested"
+    ]
+  },
+  {
+    "key": "Community Type",
+    "match": {},
+    "type": "radio",
+    "target": "Mid-sized city",
+    "defaultOptions": [
+      "Megacity / Major metropolis",
+      "Mid-sized city / Urban",
+      "Small town / Suburban",
+      "Rural area"
+    ]
+  },
+  {
+    "key": "Lived Abroad",
+    "match": {},
+    "type": "radio",
+    "target": "No, but I plan to",
+    "defaultOptions": [
+      "Yes, permanently / long-term",
+      "Yes, temporarily (study/work)",
+      "No, but I plan to",
+      "No, and no immediate plans"
+    ]
+  },
+  {
+    "key": "Job Market Prep",
+    "match": {},
+    "type": "rating",
+    "target": "4",
+    "defaultOptions": [
+      "1 (Very unprepared)",
+      "2",
+      "3",
+      "4",
+      "5 (Very prepared)"
+    ]
+  },
+  {
+    "key": "Formal Education Equip",
+    "match": {},
+    "type": "rating",
+    "target": "3",
+    "defaultOptions": [
+      "1 (Not at all)",
+      "2",
+      "3",
+      "4",
+      "5 (Extremely well)"
+    ]
+  },
+  {
+    "key": "Skills Acquisition Ranking",
+    "match": {},
+    "type": "ranking",
+    "target": [
+      "Self-taught learning",
+      "Hands-on experience",
+      "Formal education"
+    ],
+    "defaultOptions": [
+      "Self-taught learning",
+      "Hands-on experience",
+      "Formal education"
+    ]
+  },
+  {
+    "key": "Human Centric Skills",
+    "match": {},
+    "type": "multiselect",
+    "target": [
+      "Creative problem-solving",
+      "Resilience",
+      "Cross-cultural collaboration"
+    ],
+    "defaultOptions": [
+      "Creative problem-solving",
+      "Emotional intelligence & empathy",
+      "Critical thinking & ethical reasoning",
+      "Resilience & adaptability",
+      "Cross-cultural collaboration & communication",
+      "Leadership & mobilization"
+    ]
+  },
+  {
+    "key": "AI Tools Frequency",
+    "match": {},
+    "type": "radio",
+    "target": "Daily",
+    "defaultOptions": [
+      "Daily",
+      "Several times a week",
+      "Occasionally / Monthly",
+      "Rarely or never"
+    ]
+  },
+  {
+    "key": "AI Replacement Concern",
+    "match": {},
+    "type": "rating",
+    "target": "5",
+    "defaultOptions": [
+      "1 (Not concerned at all)",
+      "2",
+      "3",
+      "4",
+      "5 (Extremely concerned)"
+    ]
+  },
+  {
+    "key": "Traditional Employment",
+    "match": {},
+    "type": "rating",
+    "target": "3",
+    "defaultOptions": [
+      "1 (Strongly disagree)",
+      "2",
+      "3",
+      "4",
+      "5 (Strongly agree)"
+    ]
+  },
+  {
+    "key": "Alternative Income / Emergency",
+    "match": {},
+    "type": "radio",
+    "target": "No",
+    "defaultOptions": [
+      "Yes, multiple sources",
+      "Yes, a single side hustle",
+      "No, relying on primary income/studies",
+      "No"
+    ]
+  },
+  {
+    "key": "Financial Concern",
+    "match": {},
+    "type": "radio",
+    "target": "Inflation, rising cost",
+    "defaultOptions": [
+      "Inflation, rising cost of living",
+      "Finding a first job / unemployment",
+      "Housing affordability",
+      "Student debt / loan repayment",
+      "Stagnant wages"
+    ]
+  },
+  {
+    "key": "Structured Real World Project",
+    "match": {},
+    "type": "radio",
+    "target": "No, but I want to",
+    "defaultOptions": [
+      "Yes, multiple projects",
+      "Yes, once",
+      "No, but I want to",
+      "No, not interested"
+    ]
+  },
+  {
+    "key": "Skills Barrier",
+    "match": {},
+    "type": "multiselect",
+    "target": [
+      "My education covers it",
+      "Lack of time",
+      "I don't know what skills I"
+    ],
+    "defaultOptions": [
+      "High cost of quality training",
+      "Lack of time / busy with work or study",
+      "Lack of mentorship / professional networks",
+      "Don't know which skills are needed",
+      "My education covers it"
+    ]
+  },
+  {
+    "key": "Career Impact Importance",
+    "match": {},
+    "type": "rating",
+    "target": "3",
+    "defaultOptions": [
+      "1 (Not important)",
+      "2",
+      "3",
+      "4",
+      "5 (Essential / Top priority)"
+    ]
+  },
+  {
+    "key": "Demand to Companies/Universities",
+    "match": {},
+    "type": "text",
+    "target": "More practical learning and industry partnerships",
+    "defaultOptions": [
+      "[AI Generated Short Text Answer]"
+    ]
+  },
+  {
+    "key": "Leadership Factors Rank",
+    "match": {},
+    "type": "ranking",
+    "target": [
+      "Inspirational vision",
+      "Empowering others",
+      "Formal authority",
+      "Peer trust"
+    ],
+    "defaultOptions": [
+      "Inspirational vision",
+      "Empowering others",
+      "Formal authority",
+      "Peer trust & authenticity"
+    ]
+  },
+  {
+    "key": "Initiated Community Project",
+    "match": {},
+    "type": "radio",
+    "target": "Once",
+    "defaultOptions": [
+      "Never",
+      "Once",
+      "2–3 times",
+      "4+ times"
+    ]
+  },
+  {
+    "key": "Leadership Barrier",
+    "match": {},
+    "type": "radio",
+    "target": "Systemic: Lack of networks",
+    "defaultOptions": [
+      "Systemic: Lack of networks & resources",
+      "Fear of failure or criticism",
+      "Lack of experience / mentorship",
+      "Time constraints & burn-out",
+      "No clear opportunities"
+    ]
+  },
+  {
+    "key": "Youth Representation Influence",
+    "match": {},
+    "type": "rating",
+    "target": "5",
+    "defaultOptions": [
+      "1 (No influence)",
+      "2",
+      "3",
+      "4",
+      "5 (Major influence)"
+    ]
+  },
+  {
+    "key": "Leadership Competencies",
+    "match": {},
+    "type": "multiselect",
+    "target": [
+      "Cross-cultural communication",
+      "Communication",
+      "Decision"
+    ],
+    "defaultOptions": [
+      "Strategic vision & planning",
+      "Emotional intelligence & active listening",
+      "Cross-cultural communication",
+      "Decisiveness under pressure",
+      "Fundraising & resource mobilization",
+      "Community organizing"
+    ]
+  },
+  {
+    "key": "Community Support",
+    "match": {},
+    "type": "rating",
+    "target": "5",
+    "defaultOptions": [
+      "1 (Not supported at all)",
+      "2",
+      "3",
+      "4",
+      "5 (Fully supported)"
+    ]
+  },
+  {
+    "key": "Making Decisions Impact",
+    "match": {},
+    "type": "rating",
+    "target": "3",
+    "defaultOptions": [
+      "1 (Low impact)",
+      "2",
+      "3",
+      "4",
+      "5 (High impact)"
+    ]
+  },
+  {
+    "key": "Leadership Role Readiness",
+    "match": {},
+    "type": "rating",
+    "target": "4",
+    "defaultOptions": [
+      "1 (Not ready)",
+      "2",
+      "3",
+      "4",
+      "5 (Completely ready)"
+    ]
+  },
+  {
+    "key": "Trust in Figures",
+    "match": {},
+    "type": "radio",
+    "target": "Emerging Community Leaders",
+    "defaultOptions": [
+      "Elected politicians",
+      "Corporate / Tech CEOs",
+      "Emerging Community Leaders",
+      "Academic / Scientific experts",
+      "Independent journalists"
+    ]
+  },
+  {
+    "key": "Positive Influence Society Rank",
+    "match": {},
+    "type": "ranking",
+    "target": [
+      "Social media",
+      "Lived experience",
+      "Institutional"
+    ],
+    "defaultOptions": [
+      "Social media creators & influencers",
+      "Youth grassroots organizers",
+      "Scientists & innovators",
+      "Policy makers & governments"
+    ]
+  },
+  {
+    "key": "Priority Action Youth Leadership",
+    "match": {},
+    "type": "text",
+    "target": "Provide accessible funding, mentorship, and seats at policy tables",
+    "defaultOptions": [
+      "[AI Generated Short Text Answer]"
+    ]
+  },
+  {
+    "key": "Mental Wellbeing Rate",
+    "match": {},
+    "type": "rating",
+    "target": "4",
+    "defaultOptions": [
+      "1 (Poor)",
+      "2 (Fair)",
+      "3 (Good)",
+      "4 (Very good)",
+      "5 (Excellent)"
+    ]
+  },
+  {
+    "key": "Burnout Limiting Opportunities",
+    "match": {},
+    "type": "rating",
+    "target": "5",
+    "defaultOptions": [
+      "1 (Never)",
+      "2",
+      "3",
+      "4",
+      "5 (Frequently / Severely)"
+    ]
+  },
+  {
+    "key": "Disclosing Crisis Comfort",
+    "match": {},
+    "type": "rating",
+    "target": "2",
+    "defaultOptions": [
+      "1 (Very uncomfortable)",
+      "2",
+      "3",
+      "4",
+      "5 (Very comfortable)"
+    ]
+  },
+  {
+    "key": "Stress Drivers",
+    "match": {},
+    "type": "multiselect",
+    "target": [
+      "Relationships",
+      "Job market uncertainty",
+      "Climate anxiety"
+    ],
+    "defaultOptions": [
+      "Financial pressures / cost of living",
+      "Academic workload & career pressure",
+      "Job market uncertainty",
+      "Relationships & family expectations",
+      "Social media & digital overload",
+      "Climate anxiety & global instability"
+    ]
+  },
+  {
+    "key": "Institution Mental Health Seriousness",
+    "match": {},
+    "type": "rating",
+    "target": "4",
+    "defaultOptions": [
+      "1 (Strongly disagree)",
+      "2",
+      "3",
+      "4",
+      "5 (Strongly agree)"
+    ]
+  },
+  {
+    "key": "Institution Support Initiatives",
+    "match": {},
+    "type": "multiselect",
+    "target": [
+      "Clear protocols",
+      "On-site or subsidized"
+    ],
+    "defaultOptions": [
+      "On-site or subsidized counseling / therapy",
+      "Clear protocols for mental health days / extensions",
+      "Peer support groups & workshops",
+      "Mental wellness apps & digital subscriptions",
+      "None of the above"
+    ]
+  },
+  {
+    "key": "Turn to for Help",
+    "match": {},
+    "type": "multiselect",
+    "target": [
+      "Social media",
+      "Online communities"
+    ],
+    "defaultOptions": [
+      "Close friends or peers",
+      "Family members",
+      "Professional therapist / counselor",
+      "Online communities & forums",
+      "Self-help books & mindfulness apps",
+      "I keep it to myself"
+    ]
+  },
+  {
+    "key": "Future Uncertainty Impact",
+    "match": {},
+    "type": "rating",
+    "target": "4",
+    "defaultOptions": [
+      "1 (No impact)",
+      "2",
+      "3",
+      "4",
+      "5 (Severe impact)"
+    ]
+  },
+  {
+    "key": "Emotional Resilience Tools",
+    "match": {},
+    "type": "rating",
+    "target": "2",
+    "defaultOptions": [
+      "1 (Strongly disagree)",
+      "2",
+      "3",
+      "4",
+      "5 (Strongly agree)"
+    ]
+  },
+  {
+    "key": "Workplace 2 Aspects Matrix",
+    "match": {},
+    "type": "matrix",
+    "target": "3, 3",
+    "defaultOptions": [
+      "Row 1: Mental wellbeing support & resources (1-5)",
+      "Row 2: Career preparation & practical training (1-5)"
+    ]
+  },
+  {
+    "key": "AI Opportunities Outlook",
+    "match": {},
+    "type": "radio",
+    "target": "opportunity",
+    "defaultOptions": [
+      "Agree: It will create more opportunities",
+      "Disagree: It will eliminate more opportunities",
+      "Uncertain / Neutral"
+    ]
+  },
+  {
+    "key": "Follow International News",
+    "match": {},
+    "type": "radio",
+    "target": "Monthly",
+    "defaultOptions": [
+      "Daily",
+      "A few times a week",
+      "Weekly",
+      "Monthly",
+      "Rarely or never"
+    ]
+  },
+  {
+    "key": "SDG Knowledge",
+    "match": {},
+    "type": "rating",
+    "target": "5",
+    "defaultOptions": [
+      "1 (Not familiar at all)",
+      "2",
+      "3",
+      "4",
+      "5 (Very knowledgeable)"
+    ]
+  },
+  {
+    "key": "Individual Actions Contribute",
+    "match": {},
+    "type": "rating",
+    "target": "5",
+    "defaultOptions": [
+      "1 (No contribution)",
+      "2",
+      "3",
+      "4",
+      "5 (Significant contribution)"
+    ]
+  },
+  {
+    "key": "Global Institution Trust",
+    "match": {},
+    "type": "radio",
+    "target": "Nothing — I've lost faith in",
+    "defaultOptions": [
+      "United Nations (UN)",
+      "World Health Organization (WHO)",
+      "World Bank / IMF",
+      "International Court of Justice (ICJ)",
+      "Nothing — I've lost faith in global institutions"
+    ]
+  },
+  {
+    "key": "Engaging Obstacle",
+    "match": {},
+    "type": "radio",
+    "target": "No local entry point",
+    "defaultOptions": [
+      "Lack of financial resources",
+      "No local entry points or organizations",
+      "Lack of time due to daily survival/work",
+      "Disillusionment with bureaucracy",
+      "Language or travel barriers"
+    ]
+  },
+  {
+    "key": "Global Cooperation Optimism",
+    "match": {},
+    "type": "rating",
+    "target": "5",
+    "defaultOptions": [
+      "1 (Extremely pessimistic)",
+      "2",
+      "3",
+      "4",
+      "5 (Extremely optimistic)"
+    ]
+  },
+  {
+    "key": "Important Mindset Skill",
+    "match": {},
+    "type": "text",
+    "target": "Industry ready skills, critical thinking, and rapid adaptability",
+    "defaultOptions": [
+      "[AI Generated Short Text Answer]"
+    ]
+  },
+  {
+    "key": "Policy Demand World Leader",
+    "match": {},
+    "type": "text",
+    "target": "Prioritize youth employment, quality education, and transparent leadership",
+    "defaultOptions": [
+      "[AI Generated Short Text Answer]"
+    ]
+  },
+  {
+    "key": "Youth Vision Summary",
+    "match": {},
+    "type": "text",
+    "target": "Equal access to opportunity, fair living wages, and practical modern education",
+    "defaultOptions": [
+      "[AI Generated Short Text Answer]"
+    ]
+  },
+  {
+    "key": "Urgent Challenge 2026",
+    "match": {},
+    "type": "text",
+    "target": "Quality education, economic equality, and climate sustainability.",
+    "defaultOptions": [
+      "[AI Generated Short Text Answer]"
+    ],
+    "isFinal": true
+  }
+]

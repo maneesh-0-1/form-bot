@@ -1,0 +1,116 @@
+{
+  "bodyText": "1\nDo you consent to participate and agree to the collection of your responses in accordance with GDPR? *\nYour data is anonymous and will be used for statistical purposes only.\n*Do you consent to participate and agree to the collection of your responses in accordance with GDPR? *\nA\nYes, I consent\nB\nN",
+  "allRadiosOnPage": [
+    {
+      "text": "A\nYes, I consent",
+      "parent": "DIV",
+      "grandparent": "FIELDSET",
+      "parentRole": "radiogroup",
+      "parentClass": "sc-gEvEer sc-eqUAAy jnborw",
+      "rect": {
+        "top": 87,
+        "left": 280
+      },
+      "visible": true
+    },
+    {
+      "text": "B\nNo, I do not consent",
+      "parent": "DIV",
+      "grandparent": "FIELDSET",
+      "parentRole": "radiogroup",
+      "parentClass": "sc-gEvEer sc-eqUAAy jnborw",
+      "rect": {
+        "top": 139,
+        "left": 280
+      },
+      "visible": true
+    },
+    {
+      "text": "Y\nYes",
+      "parent": "DIV",
+      "grandparent": "FIELDSET",
+      "parentRole": "radiogroup",
+      "parentClass": "sc-gEvEer sc-eqUAAy jnborw",
+      "rect": {
+        "top": 420,
+        "left": 280
+      },
+      "visible": true
+    },
+    {
+      "text": "N\nNo",
+      "parent": "DIV",
+      "grandparent": "FIELDSET",
+      "parentRole": "radiogroup",
+      "parentClass": "sc-gEvEer sc-eqUAAy jnborw",
+      "rect": {
+        "top": 472,
+        "left": 280
+      },
+      "visible": true
+    },
+    {
+      "text": "A\n-18",
+      "parent": "DIV",
+      "grandparent": "FIELDSET",
+      "parentRole": "radiogroup",
+      "parentClass": "sc-gEvEer sc-eqUAAy jnborw",
+      "rect": {
+        "top": 785,
+        "left": 272
+      },
+      "visible": true
+    },
+    {
+      "text": "B\n18–21",
+      "parent": "DIV",
+      "grandparent": "FIELDSET",
+      "parentRole": "radiogroup",
+      "parentClass": "sc-gEvEer sc-eqUAAy jnborw",
+      "rect": {
+        "top": 837,
+        "left": 272
+      },
+      "visible": true
+    },
+    {
+      "text": "C\n22–25",
+      "parent": "DIV",
+      "grandparent": "FIELDSET",
+      "parentRole": "radiogroup",
+      "parentClass": "sc-gEvEer sc-eqUAAy jnborw",
+      "rect": {
+        "top": 889,
+        "left": 272
+      },
+      "visible": false
+    },
+    {
+      "text": "D\n26–29",
+      "parent": "DIV",
+      "grandparent": "FIELDSET",
+      "parentRole": "radiogroup",
+      "parentClass": "sc-gEvEer sc-eqUAAy jnborw",
+      "rect": {
+        "top": 941,
+        "left": 272
+      },
+      "visible": false
+    },
+    {
+      "text": "E\n30+",
+      "parent": "DIV",
+      "grandparent": "FIELDSET",
+      "parentRole": "radiogroup",
+      "parentClass": "sc-gEvEer sc-eqUAAy jnborw",
+      "rect": {
+        "top": 993,
+        "left": 272
+      },
+      "visible": false
+    }
+  ],
+  "visibleBlocksCount": 2,
+  "visibleBlocksHTML": "<div class=\"sc-gEvEer sc-eqUAAy cIAQyX\"></div><fieldset id=\"564f342d-fb89-4072-8bba-2d501739e4ed\" data-qa-block=\"true\" data-qa-blockref=\"564f342d-fb89-4072-8bba-2d501739e4ed\" data-qa-focused=\"true\" aria-labelledby=\"564f342d-fb89-4072-8bba-2d501739e4ed-prefix 564f342d-fb89-4072-8bba-2d501739e4ed-title\" aria-describedby=\"564f342d-fb89-4072-8bba-2d501739e4ed-description\" tabindex=\"-1\" class=\"sc-gEvEer sc-eqUAAy dPJKXV\" style=\"opacity: 1; transform: translateY(0%) translateZ(0px);\"><div class=\"sc-gE\n---BLOCK---\n<div class=\"sc-gEvEer sc-eqUAAy bUGWxE\"></div><div class=\"sc-gEvEer sc-eqUAAy WdiwT\"></div><div class=\"sc-gEvEer sc-eqUAAy qYuej\" style=\"opacity: 1; filter: blur(0px); transform: translateY(0%) translateZ(0px);\"><div aria-hidden=\"true\" style=\"position: absolute; top: 0px; height: 32px; width: 100%; pointer-events: none;\"></div><div class=\"sc-gEvEer sc-eqUAAy FNHVH\" style=\"opacity: 1; filter: blur(0px); transform: translateY(0%) translateZ(0px);\"><div class=\"sc-gEvEer sc-eqUAAy kWbUGp\"><div class",
+  "fullHTML": "<script>\n!function(){\"use strict\";var e={log:\"log\",debug:\"debug\",info:\"info\",warn:\"warn\",error:\"error\"},t=function(n){for(var r=[],o=1;o<arguments.length;o++)r[o-1]=arguments[o];Object.prototype.hasOwnProperty.call(e,n)||(n=e.log),t[n].apply(t,r)},n=console;function r(e,n){return function(){for(var r=[],o=0;o<arguments.length;o++)r[o]=arguments[o];try{return e.apply(void 0,r)}catch(e){t.error(n,e)}}}t.debug=n.debug.bind(n),t.log=n.log.bind(n),t.info=n.info.bind(n),t.warn=n.warn.bind(n),t.error=n.error.bind(n);var o,i=function(e,t,n){if(n||2===arguments.length)for(var r,o=0,i=t.length;o<i;o++)!r&&o in t||(r||(r=Array.prototype.slice.call(t,0,o)),r[o]=t[o]);return e.concat(r||Array.prototype.slice.call(t))},a=!1;function s(e){a=e}function u(e,t,n){var r=n.value;n.value=function(){for(var e=[],t=0;t<arguments.length;t++)e[t]=arguments[t];return(o?c(r):r).apply(this,e)}}function c(e){return function(){return f(e,this,arguments)}}function f(t,n,r){try{return t.apply(n,r)}catch(t){if(l(e.error,t),o)try{o(t)}catch(t){l(e.error,t)}}}function l(e){for(var n=[],r=1;r<arguments.length;r++)n[r-1]=arguments[r];a&&t.apply(void 0,i([e,\"[MONITOR]\"],n,!1))}function d(e,t){return-1!==e.indexOf(t)}function v(e){if(Array.from)return Array.from(e);var t=[];if(e instanceof Set)e.forEach((function(e){return t.push(e)}));else for(var n=0;n<e.length;n++)t.push(e[n]);return t}function p(e){return Object.keys(e).map((function(t){return e[t]}))}function g(e,t){return e.slice(0,t.length)===t}function h(e){for(var t=[],n=1;n<arguments.length;n++)t[n-1]=arguments[n];return t.forEach((function(t){for(var n in t)Object.prototype.hasOwnProperty.call(t,n)&&(e[n]=t[n])})),e}function y(){if(\"object\"==typeof globalThis)return globalThis;Object.defineProperty(Object.prototype,\"_dd_temp_\",{get:function(){return this},configurable:!0});var e=_dd_temp_;return delete Object.prototype._dd_temp_,\"object\"!=typeof e&&(e=\"object\"==typeof self?self:\"object\"==typeof window?window:{}),e}var m=1024,b=1024*m,w=/[^\\u0000-\\u007F]/;function E(e){return w.test(e)?void 0!==window.TextEncoder?(new TextEncoder).encode(e).length:new Blob([e]).size:e.length}function S(e,t){var n,r=y();return r.Zone&&\"function\"==typeof r.Zone.__symbol__&&(n=e[r.Zone.__symbol__(t)]),n||(n=e[t]),n}function C(e,t){return S(y(),\"setTimeout\")(c(e),t)}function x(e){S(y(),\"clearTimeout\")(e)}function k(e,t){return S(window,\"setInterval\")(c(e),t)}function O(e){S(window,\"clearInterval\")(e)}function R(e,t,n){var r,o,i=!n||void 0===n.leading||n.leading,a=!n||void 0===n.trailing||n.trailing,s=!1;return{throttled:function(){for(var n=[],u=0;u<arguments.length;u++)n[u]=arguments[u];s?r=n:(i?e.apply(void 0,n):r=n,s=!0,o=C((function(){a&&r&&e.apply(void 0,r),s=!1,r=void 0}),t))},cancel:function(){x(o),s=!1,r=void 0}}}function _(){}function T(e){return null===e?\"null\":Array.isArray(e)?\"array\":typeof e}function L(e,t,n){if(void 0===n&&(n=function(){if(\"undefined\"!=typeof WeakSet){var e=new WeakSet;return{hasAlreadyBeenSeen:function(t){var n=e.has(t);return n||e.add(t),n}}}var t=[];return{hasAlreadyBeenSeen:function(e){var n=t.indexOf(e)>=0;return n||t.push(e),n}}}()),void 0===t)return e;if(\"object\"!=typeof t||null===t)return t;if(t instanceof Date)return new Date(t.getTime());if(t instanceof RegExp){var r=t.flags||[t.global?\"g\":\"\",t.ignoreCase?\"i\":\"\",t.multiline?\"m\":\"\",t.sticky?\"y\":\"\",t.unicode?\"u\":\"\"].join(\"\");return new RegExp(t.source,r)}if(!n.hasAlreadyBeenSeen(t)){if(Array.isArray(t)){for(var o=Array.isArray(e)?e:[],i=0;i<t.length;++i)o[i]=L(o[i],t[i],n);return o}var a=\"object\"===T(e)?e:{};for(var s in t)Object.prototype.hasOwnProperty.call(t,s)&&(a[s]=L(a[s],t[s],n));return a}}function A(e){return L(void 0,e)}function B(){for(var e,t=[],n=0;n<arguments.length;n++)t[n]=arguments[n];for(var r=0,o=t;r<o.length;r++){var i=o[r];null!=i&&(e=L(e,i))}return e}function P(e,t,n){if(\"object\"!=typeof e||null===e)return JSON.stringify(e);var r=q(Object.prototype),o=q(Array.prototype),i=q(Object.getPrototypeOf(e)),a=q(e);try{return JSON.stringify(e,t,n)}catch(e){return\"<error: unable to serialize object>\"}finally{r(),o(),i(),a()}}function q(e){var t=e,n=t.toJSON;return n?(delete t.toJSON,function(){t.toJSON=n}):_}var U=220*m,j=\"$\",I=3;function N(e,t){var n;void 0===t&&(t=U);var r=q(Object.prototype),o=q(Array.prototype),i=[],a=new WeakMap,s=M(e,j,void 0,i,a),u=(null===(n=JSON.stringify(s))||void 0===n?void 0:n.length)||0;if(!(u>t)){for(;i.length>0&&u<t;){var c=i.shift(),f=0;if(Array.isArray(c.source))for(var l=0;l<c.source.length;l++){if(u+=void 0!==(d=M(c.source[l],c.path,l,i,a))?JSON.stringify(d).length:4,u+=f,f=1,u>t){D(t,\"truncated\",e);break}c.target[l]=d}else for(var l in c.source)if(Object.prototype.hasOwnProperty.call(c.source,l)){var d;if(void 0!==(d=M(c.source[l],c.path,l,i,a))&&(u+=JSON.stringify(d).length+f+l.length+I,f=1),u>t){D(t,\"truncated\",e);break}c.target[l]=d}}return r(),o(),s}D(t,\"discarded\",e)}function M(e,t,n,r,o){var i=function(e){var t=e;if(t&&\"function\"==typeof t.toJSON)try{return t.toJSON()}catch(e){}return e}(e);if(!i||\"object\"!=typeof i)return function(e){if(\"bigint\"==typeof e)return\"[BigInt] \".concat(e.toString());if(\"function\"==typeof e)return\"[Function] \".concat(e.name||\"unknown\");if(\"symbol\"==typeof e)return\"[Symbol] \".concat(e.description||e.toString());return e}(i);var a=function(e){try{if(e instanceof Event)return{isTrusted:e.isTrusted};var t=Object.prototype.toString.call(e).match(/\\[object (.*)\\]/);if(t&&t[1])return\"[\".concat(t[1],\"]\")}catch(e){}return\"[Unserializable]\"}(i);if(\"[Object]\"!==a&&\"[Array]\"!==a&&\"[Error]\"!==a)return a;var s=e;if(o.has(s))return\"[Reference seen at \".concat(o.get(s),\"]\");var u=void 0!==n?\"\".concat(t,\".\").concat(n):t,c=Array.isArray(i)?[]:{};return o.set(s,u),r.push({source:i,target:c,path:u}),c}function D(e,n,r){t.warn(\"The data provided has been \".concat(n,\" as it is over the limit of \").concat(e,\" characters:\"),r)}var G=3*m;var F=200;function H(e,n){void 0===n&&(n=E);var r,o={},i=!1,a=R((function(o){r=n(P(o)),i||(i=function(e,n){return e>G&&(t.warn(\"The \".concat(n,\" data is over \").concat(G/m,\"KiB. On low connectivity, the SDK has the potential to exhaust the user's upload bandwidth.\")),!0)}(r,e))}),F).throttled;return{getBytesCount:function(){return r},get:function(){return o},add:function(e,t){o[e]=t,a(o)},remove:function(e){delete o[e],a(o)},set:function(e){a(o=e)},getContext:function(){return A(o)},setContext:function(e){o=N(e),a(o)},setContextProperty:function(e,t){o[e]=N(t),a(o)},removeContextProperty:function(e){delete o[e],a(o)},clearContext:function(){o={},r=0}}}var z,J=function(){function e(){this.buffer=[]}return e.prototype.add=function(e){this.buffer.push(e)>500&&this.buffer.splice(0,1)},e.prototype.drain=function(){this.buffer.forEach((function(e){return e()})),this.buffer.length=0},e}(),V=1e3,W=60*V,$=60*W;function K(){return(new Date).getTime()}function X(){return K()}function Z(){return performance.now()}function Y(){return{relative:Z(),timeStamp:X()}}function Q(){return void 0===z&&(z=performance.timing.navigationStart),z}function ee(){var e=y().DatadogEventBridge;if(e)return{getAllowedWebViewHosts:function(){return JSON.parse(e.getAllowedWebViewHosts())},send:function(t,n){e.send(JSON.stringify({eventType:t,event:n}))}}}function te(e){var t;void 0===e&&(e=null===(t=y().location)||void 0===t?void 0:t.hostname);var n=ee();return!!n&&n.getAllowedWebViewHosts().some((function(t){return e===t||(n=e,r=\".\".concat(t),n.slice(-r.length)===r);var n,r}))}function ne(e){var t=h({},e);return[\"id\",\"name\",\"email\"].forEach((function(e){e in t&&(t[e]=String(t[e]))})),t}function re(e){return e?(parseInt(e,10)^16*Math.random()>>parseInt(e,10)/4).toString(16):\"\".concat(1e7,\"-\").concat(1e3,\"-\").concat(4e3,\"-\").concat(8e3,\"-\").concat(1e11).replace(/[018]/g,re)}function oe(e,t,n){void 0===n&&(n=\"\");var r=e.charCodeAt(t-1),o=r>=55296&&r<=56319?t+1:t;return e.length<=o?e:\"\".concat(e.slice(0,o)).concat(n)}var ie,ae,se=V;function ue(e,t,n,r){var o=new Date;o.setTime(o.getTime()+n);var i=\"expires=\""
+}

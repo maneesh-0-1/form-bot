@@ -1,0 +1,172 @@
+[
+  {
+    "tag": "SPAN",
+    "role": null,
+    "qa": "question-header-counter",
+    "text": "16",
+    "top": 11,
+    "left": 242,
+    "width": 21,
+    "height": 19
+  },
+  {
+    "tag": "LEGEND",
+    "role": null,
+    "qa": "block-title deep-purple-block-title",
+    "text": "Rate how your university, school, or wor",
+    "top": 4,
+    "left": 272,
+    "width": 720,
+    "height": 68
+  },
+  {
+    "tag": "DIV",
+    "role": null,
+    "qa": "block",
+    "text": "Level of Talk (Rhetoric): How much menta",
+    "top": 112,
+    "left": 272,
+    "width": 720,
+    "height": 299
+  },
+  {
+    "tag": "LABEL",
+    "role": null,
+    "qa": null,
+    "text": "Level of Talk (Rhetoric): How much menta",
+    "top": 112,
+    "left": 272,
+    "width": 600,
+    "height": 26
+  },
+  {
+    "tag": "BUTTON",
+    "role": "combobox",
+    "qa": null,
+    "text": "-",
+    "top": 182,
+    "left": 282,
+    "width": 44,
+    "height": 24
+  },
+  {
+    "tag": "BUTTON",
+    "role": "combobox",
+    "qa": null,
+    "text": "-",
+    "top": 234,
+    "left": 282,
+    "width": 44,
+    "height": 24
+  },
+  {
+    "tag": "BUTTON",
+    "role": "combobox",
+    "qa": null,
+    "text": "-",
+    "top": 286,
+    "left": 282,
+    "width": 44,
+    "height": 24
+  },
+  {
+    "tag": "BUTTON",
+    "role": "combobox",
+    "qa": null,
+    "text": "-",
+    "top": 338,
+    "left": 282,
+    "width": 44,
+    "height": 24
+  },
+  {
+    "tag": "DIV",
+    "role": null,
+    "qa": "error-message-visible",
+    "text": "Please fill this in",
+    "top": 380,
+    "left": 272,
+    "width": 145,
+    "height": 31
+  },
+  {
+    "tag": "DIV",
+    "role": null,
+    "qa": "block",
+    "text": "Level of Action (Reality): How effective",
+    "top": 443,
+    "left": 272,
+    "width": 720,
+    "height": 312
+  },
+  {
+    "tag": "LABEL",
+    "role": null,
+    "qa": null,
+    "text": "Level of Action (Reality): How effective",
+    "top": 443,
+    "left": 272,
+    "width": 720,
+    "height": 52
+  },
+  {
+    "tag": "BUTTON",
+    "role": "combobox",
+    "qa": null,
+    "text": "1",
+    "top": 500,
+    "left": 282,
+    "width": 44,
+    "height": 24
+  },
+  {
+    "tag": "BUTTON",
+    "role": "combobox",
+    "qa": null,
+    "text": "2",
+    "top": 591,
+    "left": 282,
+    "width": 44,
+    "height": 24
+  },
+  {
+    "tag": "BUTTON",
+    "role": "combobox",
+    "qa": null,
+    "text": "3",
+    "top": 643,
+    "left": 282,
+    "width": 44,
+    "height": 24
+  },
+  {
+    "tag": "BUTTON",
+    "role": "combobox",
+    "qa": null,
+    "text": "4",
+    "top": 695,
+    "left": 282,
+    "width": 44,
+    "height": 24
+  },
+  {
+    "tag": "BUTTON",
+    "role": null,
+    "qa": null,
+    "text": "Clear all",
+    "top": 737,
+    "left": 272,
+    "width": 50,
+    "height": 18
+  },
+  {
+    "tag": "BUTTON",
+    "role": null,
+    "qa": "partial-submission-button",
+    "text": "OK",
+    "top": 787,
+    "left": 272,
+    "width": 59,
+    "height": 40
+  }
+]
